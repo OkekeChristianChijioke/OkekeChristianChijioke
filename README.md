@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OkekeChristianChijioke
-- 👀 I’m interested in web development and design 
-- 🌱 I’m currently learning web development and design 
-- 💞️ I’m looking to collaborate on web development and design 
+- 👀 I’m interested in web design and development
+- 🌱 I’m currently learning web design and development
+- 💞️ I’m looking to collaborate on web design and development projects
 - 📫 How to reach me is via +2348062546801
 
 <!---
